@@ -1,7 +1,7 @@
 # SL-Capstone
 Thinkful Supervised Learning Capstone
 
-The html file is what I will use to present. Downloading the file and launching it from your local machine is recommended.
+The .slides file is an html document, and what I will use to present. Downloading the file and launching it from your local machine is recommended.
 
 The project submitted for a grade contains complete code, and a more detailed analysis.
 It can be found here:
